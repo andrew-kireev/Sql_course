@@ -1,0 +1,1 @@
+ALTER VIEW FIRST (Company, LName, FName) AS SELECT FirmaName, LastName, FirstName FROM Customers

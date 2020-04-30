@@ -1,0 +1,2 @@
+CREATE VIEW INSSS AS SELECT IdProduct, ProductAmount, Sum FROM Items WHERE IdOrder = 1 WITH CHECK OPTION
+
