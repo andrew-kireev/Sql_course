@@ -1,0 +1,1 @@
+SELECT PrPrice FROM dbo.Products Group BY PrPrice HAVING AVG(PrPrice) > 100
