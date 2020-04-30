@@ -1,0 +1,1 @@
+SELECT MAX(PrPrice) FROM Products

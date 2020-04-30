@@ -1,0 +1,1 @@
+SELECT TOP 5 PrName, PrPrice FROM Products

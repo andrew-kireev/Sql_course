@@ -1,0 +1,1 @@
+SELECT * FROM Products WHERE InStock IS NOT NULL
